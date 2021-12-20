@@ -1,0 +1,19 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Post 1",
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+		},
+		{
+			"id": 2,
+			"title": "Post 2",
+			"text": "Ducimus laborum consequatur numquam sint nostrum nemo corrupti!"
+		},
+		{
+			"id": 3,
+			"title": "Post 3",
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, veritatis! Ducimus laborum consequatur numquam sint nostrum nemo corrupti! Error, quasi. Velit incidunt esse aliquam aliquid sapiente dolorum numquam alias animi!"
+		}
+	]
+}
