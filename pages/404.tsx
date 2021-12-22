@@ -1,4 +1,4 @@
-import { MainLayout } from './../components/MainLayout'
+import { MainLayout } from '../components/MainLayout'
 import Link from 'next/link'
 import classes from '../styles/ErrorPage.module.scss'
 

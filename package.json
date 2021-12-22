@@ -10,14 +10,18 @@
 		"serve": "concurrently \"npm run mock\" \"npm run dev\""
 	},
 	"dependencies": {
+		"dotenv": "^10.0.0",
 		"next": "12.0.7",
+		"nextjs-progressbar": "0.0.13",
 		"react": "17.0.2",
 		"react-dom": "17.0.2",
 		"sass": "^1.45.0"
 	},
 	"devDependencies": {
+		"@types/react": "^17.0.37",
 		"concurrently": "^6.5.1",
 		"eslint": "8.5.0",
-		"eslint-config-next": "12.0.7"
+		"eslint-config-next": "12.0.7",
+		"typescript": "^4.5.4"
 	}
 }

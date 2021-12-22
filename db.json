@@ -15,5 +15,8 @@
 			"title": "Post 3",
 			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, veritatis! Ducimus laborum consequatur numquam sint nostrum nemo corrupti! Error, quasi. Velit incidunt esse aliquam aliquid sapiente dolorum numquam alias animi!"
 		}
-	]
+	],
+	"about": {
+		"title": "Страница про нас"
+	}
 }
